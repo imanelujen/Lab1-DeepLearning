@@ -366,20 +366,3 @@ deep-learning-lab/
 ├── lab-1part1.ipynb
 └── lab1-part-2-mcc-predictive-maintenance.ipynb
 ```
-
-## How to Run
-
-1. Clone or download this repository.
-2. Open the notebooks in Kaggle or Jupyter.
-3. Install the required Python libraries if they are not already available.
-4. Download the datasets from the linked Kaggle pages.
-5. Update the dataset paths in the notebooks.
-6. Execute the notebook cells in order to reproduce the experiments.
-
-## Author
-
-**Name:** Imane Chikh
-
-**Course:** Deep Learning
-
-**Academic Year:** 2026–2027
