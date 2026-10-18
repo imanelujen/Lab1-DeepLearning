@@ -363,15 +363,9 @@ An example repository structure is:
 ```text
 deep-learning-lab/
 ├── README.md
-├── notebooks/
-│   ├── part1_regression.ipynb
-│   └── part2_classification.ipynb
-└── results/
-    ├── regression/
-    └── classification/
+├── lab-1part1.ipynb
+└── lab1-part-2-mcc-predictive-maintenance.ipynb
 ```
-
-Adjust the notebook and results paths to match the actual files in your repository.
 
 ## How to Run
 
